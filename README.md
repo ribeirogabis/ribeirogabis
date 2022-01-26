@@ -1,11 +1,10 @@
-<center><img src="imgs/title.png" heigth="" width="400"> </center>
+<p align="center"> <img src="imgs/title.png" heigth="" width="400"> </p>
 
 <img  align="right" src="imgs/faces.png" height="" width="160">
 
-
 ## &nbsp;***About me***
 
-I am an undergraduate Computer science and Engineering student at IIIT-Hyderabad currently in my second year. My technical stack involve Javascript, HTML, CSS. I love to learn and build something new, productive, innovative and creative.
+I am an undergraduate technology student at Centro Universitário Farias Brito currently in my second year. My technical stack involve Javascript, HTML, CSS. I love to learn and build something new, productive, innovative and creative.
 
 - 🔥 **I am interested in Web development**
 - 🌱 I’m currently learning ...
